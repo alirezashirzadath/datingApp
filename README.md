@@ -1,4 +1,4 @@
-# My Dating app Coding using React and redux
+# My Dating app Project using React and redux
 
 This project uses lazy kar design
 
