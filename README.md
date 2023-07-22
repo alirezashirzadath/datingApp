@@ -1,8 +1,7 @@
-# My Sale Management Coding using React and redux
+# My Datin app Coding using React and redux
 
-This project uses Ghulam Rasool design
+This project uses lazy kar design
 
-https://dribbble.com/shots/16255793-Finance-App-design-Dark-theme
-
+https://dribbble.com/shots/22059109-Dating-app-design-mobile-app
 
 
